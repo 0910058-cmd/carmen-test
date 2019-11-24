@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-14 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Overzichtspagina_0.1);
+      }
+
+      .cls-3 {
+        fill: #aaa;
+        opacity: 0.076;
+      }
+
+      .cls-4 {
+        fill: #4b4b4b;
+      }
+
+      .cls-16, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 58px;
+        font-family: Roboto-Black, Roboto;
+        font-weight: 800;
+      }
+
+      .cls-6 {
+        font-size: 43px;
+      }
+
+      .cls-13, .cls-6 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-7 {
+        font-size: 15px;
+        font-family: Roboto-Italic, Roboto;
+        font-style: italic;
+      }
+
+      .cls-14, .cls-8 {
+        stroke: #707070;
+      }
+
+      .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        font-size: 26px;
+      }
+
+      .cls-12, .cls-9 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-10 {
+        font-family: SnellRoundhand, Snell Roundhand;
+      }
+
+      .cls-10, .cls-13 {
+        font-weight: 400;
+      }
+
+      .cls-11 {
+        fill: rgba(0,0,0,0.8);
+        font-size: 28px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-12, .cls-13 {
+        font-size: 18px;
+        fill: #000;
+      }
+
+      .cls-15 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Overzichtspagina_0.1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Overzichtspagina_0.1" data-name="Overzichtspagina 0.1" class="cls-2">
+    <rect class="cls-16" width="1920" height="1080"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-3" width="1270" height="1024" transform="translate(326 56)"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-4" width="1270" height="195" transform="translate(326 56)"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" class="cls-4" width="1270" height="30" transform="translate(325 1050)"/>
+    <text id="DIGITAL_TYPOGRAPHY" data-name="DIGITAL TYPOGRAPHY" class="cls-5" transform="translate(655 140)"><tspan x="0" y="0">DIGITAL TYPOGRAPHY</tspan></text>
+    <text id="by_Astgik_Carmen" data-name="by Astgik &amp; Carmen" class="cls-6" transform="translate(960 208)"><tspan x="-186.823" y="0">by Astgik &amp; Carmen</tspan></text>
+    <text id="_2019_CMDUIXD_versie_0.1" data-name="2019 CMDUIXD versie 0.1" class="cls-7" transform="translate(1486 1070)"><tspan x="-83.785" y="0">2019 CMDUIXD versie 0.1</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 107)">
+      <g id="Rectangle_14" data-name="Rectangle 14" class="cls-8" transform="translate(489 424)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Anatomie" class="cls-9" transform="translate(635 502)"><tspan x="-55.751" y="0">Anatomie</tspan></text>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(-163 109)">
+      <g id="Rectangle_17" data-name="Rectangle 17" class="cls-8" transform="translate(652 595)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Kleur" class="cls-9" transform="translate(798 673)"><tspan x="-30.285" y="0">Kleur</tspan></text>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(-163 282)">
+      <g id="Rectangle_17-2" data-name="Rectangle 17" class="cls-8" transform="translate(652 595)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Tools_methoden" data-name="Tools &amp; methoden" class="cls-9" transform="translate(798 673)"><tspan x="-104.958" y="0">Tools &amp; methoden</tspan></text>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 107)">
+      <g id="Rectangle_15" data-name="Rectangle 15" class="cls-8" transform="translate(815 424)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Classificaties" class="cls-9" transform="translate(961 502)"><tspan x="-78.311" y="0">Classificaties</tspan></text>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-163 109)">
+      <g id="Rectangle_18" data-name="Rectangle 18" class="cls-8" transform="translate(978 595)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Van_print_naar_digitaal" data-name="Van print naar digitaal" class="cls-9" transform="translate(1124 673)"><tspan x="-127.778" y="0">Van print naar digitaal</tspan></text>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(-163 282)">
+      <g id="Rectangle_18-2" data-name="Rectangle 18" class="cls-8" transform="translate(978 595)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Kennisbank" class="cls-9" transform="translate(1124 673)"><tspan x="-67.863" y="0">Kennisbank</tspan></text>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(163 109)">
+      <g id="Rectangle_18-3" data-name="Rectangle 18" class="cls-8" transform="translate(978 595)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Do_s_don_ts" data-name="Do’s &amp; don’ts" class="cls-9" transform="translate(1124 673)"><tspan x="-65.933" y="0">Do’s &amp; </tspan><tspan class="cls-10" y="0">don’ts</tspan></text>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(163 282)">
+      <g id="Rectangle_18-4" data-name="Rectangle 18" class="cls-8" transform="translate(978 595)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Voorbeelden" class="cls-9" transform="translate(1124 673)"><tspan x="-73.626" y="0">Voorbeelden</tspan></text>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 107)">
+      <g id="Rectangle_16" data-name="Rectangle 16" class="cls-8" transform="translate(1141 424)">
+        <rect class="cls-15" width="291" height="138"/>
+        <rect class="cls-1" x="1" y="1" width="289" height="136"/>
+      </g>
+      <text id="Hiërarchie" class="cls-9" transform="translate(1287 502)"><tspan x="-59.712" y="0">Hiërarchie</tspan></text>
+    </g>
+    <text id="Typografie_maakt_het_of_breekt_het_Waarom_is_typografie_belangrijk_in_het_ontwerpproces_Kan_ik_niet_gewoon_zomaar_een_lettertype_kiezen_die_ik_leuk_vind_Typografie_is_net_als_je_stem:_communicatie_opzichzelf._Met_kennis_van_typografie_maak_je_een_visue" data-name="Typografie maakt het of breekt het
+
+Waarom is typografie belangrijk in het ontwerpproces?
+Kan ik niet gewoon zomaar een lettertype kiezen die ik leuk vind?
+
+Typografie is net als je stem: communicatie opzichzelf.
+Met kennis van typografie maak je een visue" class="cls-11" transform="translate(489 290)"><tspan x="0" y="26">Typografie maakt het of breekt het</tspan><tspan class="cls-12"><tspan x="0" y="49"></tspan><tspan x="0" y="72">Waarom is typografie belangrijk in het ontwerpproces?</tspan><tspan x="0" y="95">Kan ik niet gewoon zomaar een lettertype kiezen die ik leuk vind?</tspan></tspan><tspan class="cls-13"><tspan x="0" y="118"></tspan><tspan x="0" y="141">Typografie is net als je stem: communicatie opzichzelf.</tspan><tspan x="0" y="164">Met kennis van typografie maak je een visueel aantrekkelijk en communicerend product.</tspan></tspan></text>
+    <line id="Line_1" data-name="Line 1" class="cls-14" x2="943" transform="translate(488.5 496)"/>
+  </g>
+</svg>
